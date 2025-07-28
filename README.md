@@ -1,1 +1,1 @@
-# CodeProgram
+# CoreProgramming
